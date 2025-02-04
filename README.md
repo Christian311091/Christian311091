@@ -22,7 +22,7 @@ Bem-vindo ao meu portfólio de projetos de automação! Aqui você encontrará e
 
 🔹 Importação e avaliação dos dados com `info()`, `describe()` e análise de valores nulos.
 🔹 Análise exploratória de informações por ano e por gênero de filmes.
-🔹 Visualização gráfica dos resultados para melhor compreensão dos padrões e tendências.
+🔹 Visualização gráfica dos resultados para melhor compreensão dos padrões e tendências..
 
 🔗 [Código](./analise_netflix.py)
 
